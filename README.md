@@ -3,13 +3,13 @@
 Basic CRUD in python with OAUTH using Google, SQLAlchemy for the ORM (SQLite), and Flask for the Python Framework.
 
 ## Files
-project.py - CRUD operations and logic
-client_secrets.json - used for OAUTH with Google
-fb_client_secrets.json - used for OAUTH with Facebook
-database_setup.py - creates the database tables
-lotsofcatalogitems.py - populates the database
-static/styles.css - stylesheet for the application
-templates/*.html - all the html templates
+3.project.py - CRUD operations and logic
+3.client_secrets.json - used for OAUTH with Google
+3.fb_client_secrets.json - used for OAUTH with Facebook
+3.database_setup.py - creates the database tables
+3.lotsofcatalogitems.py - populates the database
+3.static/styles.css - stylesheet for the application
+3.templates/*.html - all the html templates
 
 ## Libraries
 [SQLAlchemy](http://docs.sqlalchemy.org/en/rel_1_0/intro.html#installation-guide) - ORM used to interact with the DB. 
