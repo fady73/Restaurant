@@ -7,7 +7,7 @@ Basic CRUD in python with OAUTH using Google, SQLAlchemy for the ORM (SQLite), a
 2 client_secrets.json - used for OAUTH with Google <br>
 3 fb_client_secrets.json - used for OAUTH with Facebook <br>
 4 database_setup.py - creates the database tables <br>
-5 lotsofcatalogitems.py - populates the database <br>
+5 lotofmenus.py - populates the database <br>
 6 static/styles.css - stylesheet for the application <br>
 7 templates/*.html - all the html templates
 
@@ -31,7 +31,7 @@ Open your terminal & cd to this repo. Then type in the following commands:
 
 1. ``` python database_setup.py ``` to create the database
 
-2. ``` python lotsofcatalogitems.py ``` to populate the database
+2. ``` python lotsofmenus.py ``` to populate the database
 
 3. ``` python project.py ``` to launch the app. Navigate to localhost:5000 in your browser.
 
